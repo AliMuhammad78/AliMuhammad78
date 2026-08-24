@@ -88,7 +88,7 @@ Passionate about building software, solving problems, and continuously learning 
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ali Muhammad78&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=AliMuhammad78&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
