@@ -84,6 +84,9 @@ Passionate about building software, solving problems, and continuously learning 
   <img src="https://streak-stats.demolab.com?user=AliMuhammad78&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AliMuhammad78&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5" />
+</p>
 ---
 
 # 📊 Contribution Graph
