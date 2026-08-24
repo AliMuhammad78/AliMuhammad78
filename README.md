@@ -75,25 +75,13 @@ Passionate about building software, solving problems, and continuously learning 
 - 💰 Personal Finance Manager *(Coming Soon)*
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliMuhammad78&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AliMuhammad78&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliMuhammad78&theme=tokyonight&hide_border=true" />
-</p>
-
+ 
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AliMuhammad78&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=AliMuhammad78&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -101,9 +89,8 @@ Passionate about building software, solving problems, and continuously learning 
 # 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliMuhammad78&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliMuhammad78&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 # 🎯 Learning Goals
