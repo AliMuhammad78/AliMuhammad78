@@ -81,7 +81,7 @@ Passionate about building software, solving problems, and continuously learning 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AliMuhammad78&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMuhammad78&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p> 
 
 ---
 
