@@ -7,7 +7,7 @@
 <p>
 Passionate about building software, solving problems, and continuously learning new technologies. I enjoy turning ideas into practical projects and sharing my learning journey with the community.
 </p>
-
+ 
 <p>
   <a href="https://www.linkedin.com/in/muhammad-ali-91294a290/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -84,7 +84,7 @@ Passionate about building software, solving problems, and continuously learning 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AliMuhammad78&theme=tokyonight&hide_border=true" />
-</p>
+</p> 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AliMuhammad78&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5" />
