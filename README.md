@@ -1,9 +1,9 @@
 <div align="center">
-
+ 
 # Hi there, I'm Muhammad Ali 👋
  
 ### Final Year BS Computer Science Student | Python Developer | AI Enthusiast
- 
+  
 <p>
 Passionate about building software, solving problems, and continuously learning new technologies. I enjoy turning ideas into practical projects and sharing my learning journey with the community.
 </p>
