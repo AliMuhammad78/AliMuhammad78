@@ -47,15 +47,18 @@ Passionate about building software, solving problems, and continuously learning 
 
 # 🚀 Current Focus
 
-- 🐍 Python
-- 📊 Data Structures & Algorithms
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 💬 Natural Language Processing (NLP)
-- ✨ Generative AI
-- 🌍 Language Technologies
-- 🌐 Flask
-- 🔧 Git & GitHub
+🐍 Python
+📊 Data Structures & Algorithms
+🤖 Machine Learning
+🧠 Deep Learning
+💬 Natural Language Processing (NLP)
+✨ Generative AI
+🌍 Language Technologies
+🌐 Flask
+🐳 Docker
+🗄️ SQL & Databases
+🔗 REST APIs
+🔧 Git & GitHub
 
 --- 
 
