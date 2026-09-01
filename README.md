@@ -67,7 +67,7 @@ Passionate about building software, solving problems, and continuously learning 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,flask,react,nodejs,express,mongodb,git,github,vscode,linux,tensorflow,pytorch,sklearn&perline=9"/>
 </p>
-
+   
 ---
 
 # 📌 Featured Projects
