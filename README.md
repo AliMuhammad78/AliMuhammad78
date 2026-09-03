@@ -43,7 +43,7 @@ Passionate about building software, solving problems, and continuously learning 
 - 📚 I believe in learning consistently, documenting my progress, and sharing my work publicly.
 - 💡 Interested in AI, backend development, and intelligent software systems.
 
----
+--- 
 
 # 🚀 Current Focus
 
