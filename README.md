@@ -90,7 +90,8 @@ Passionate about building software, solving problems, and continuously learning 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AliMuhammad78&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5" />
 </p>
----
+--- 
+
 
 # 📊 Contribution Graph
 
