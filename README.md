@@ -35,7 +35,7 @@ Passionate about building software, solving problems, and continuously learning 
 ---
  
 # 👨‍💻 About Me
-
+ 
 - 🎓 Final Year **BS Computer Science** student.
 - 🐍 Python developer with a strong focus on writing clean, readable, and maintainable code.
 - 🤖 Currently exploring **Machine Learning, Deep Learning, Natural Language Processing, Generative AI, Language Technologies, and Data Structures & Algorithms**.
