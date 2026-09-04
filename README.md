@@ -95,9 +95,9 @@ Passionate about building software, solving problems, and continuously learning 
 
 # 📊 Contribution Graph
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliMuhammad78&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 --- 
 
 # 🎯 Learning Goals
