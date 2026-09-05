@@ -99,7 +99,7 @@ Passionate about building software, solving problems, and continuously learning 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliMuhammad78&theme=tokyonight&hide_border=true" />
 </div>
 --- 
-
+   
 # 🎯 Learning Goals
 
 - ✅ Strengthen Python fundamentals
