@@ -1,6 +1,6 @@
 <div align="center">  
  
-# Hi there, I'm Muhammad Ali 👋   
+# Hi there, I'm Muhammad Ali 👋  
  
 ### Final Year BS Computer Science Student | Python Developer | AI Enthusiast
         
