@@ -32,7 +32,7 @@ Passionate about building software, solving problems, and continuously learning 
 </div> 
 
 ---
- 
+  
 # 👨‍💻 About Me
  
 - 🎓 Final Year **BS Computer Science** student.
