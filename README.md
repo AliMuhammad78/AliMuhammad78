@@ -29,7 +29,7 @@ Passionate about building software, solving problems, and continuously learning 
 
 <img src="https://komarev.com/ghpvc/?username=AliMuhammad78&style=for-the-badge" alt="Profile Views"/>
 
-</div>
+</div> 
 
 ---
  
