@@ -6,7 +6,7 @@
           
 <p>  
 Passionate about building software, solving problems, and continuously learning new technologies. I enjoy turning ideas into practical projects and sharing my learning journey with the community. 
-</p> 
+</p>  
    
 <p> 
   <a href="https://www.linkedin.com/in/muhammad-ali-91294a290/">
@@ -76,7 +76,7 @@ Passionate about building software, solving problems, and continuously learning 
 - 💯 Python Coding Challenges
 - 🎓 Python for Everybody – Notes & Practice
 - 📖 ShelfShare (MERN Stack)
-- 💰 Personal Finance Manager *(Coming Soon)*
+- 💰 Personal Finance Manager  
 
 ---  
 ---
