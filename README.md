@@ -15,7 +15,7 @@ Passionate about building software, solving problems, and continuously learning 
   
   <a href="https://www.youtube.com/@TechyBits20121">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+  </a> 
 
   <a href="https://www.instagram.com/alisaagar6453/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
