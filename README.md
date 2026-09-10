@@ -25,7 +25,7 @@ Passionate about building software, solving problems, and continuously learning 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
    
-</p>
+</p> 
 
 <img src="https://komarev.com/ghpvc/?username=AliMuhammad78&style=for-the-badge" alt="Profile Views"/>
 
