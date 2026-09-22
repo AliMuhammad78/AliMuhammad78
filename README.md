@@ -78,7 +78,7 @@ Passionate about building software, solving problems, and continuously learning 
 - 📖 ShelfShare (MERN Stack)
 - 💰 Personal Finance Manager  
 
----  
+---     
 ---
 
 # 🔥 GitHub Streak
