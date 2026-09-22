@@ -2,12 +2,12 @@
                                   
 # Hi there, I'm Muhammad Ali 👋                      
                       
-### Final Year BS Computer Science Student | Python Developer | AI Enthusiast    
+### Final Year BS Computer Science Student | Python Developer | AI Enthusiast     
                       
 <p>      
 Passionate about building software, solving problems, and continuously learning new technologies. I enjoy turning ideas into practical projects and sharing my learning journey with the community. 
 </p>          
-        
+         
 <p>   
   <a href="https://www.linkedin.com/in/muhammad-ali-91294a290/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
