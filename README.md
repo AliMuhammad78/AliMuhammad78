@@ -48,7 +48,7 @@ Passionate about building software, solving problems, and continuously learning 
 
 - 🐍 Python
 - 📊 Data Structures & Algorithms 
-- 🤖 Machine Learning
+- 🤖 Machine Learning  
 - 🧠 Deep Learning
 - 💬 Natural Language Processing (NLP)
 - ✨ Generative AI
