@@ -47,7 +47,7 @@ Passionate about building software, solving problems, and continuously learning 
   
 # 🚀 Current Focus     
    
-- 🐍 Python
+- 🐍 Python  
 - 📊 Data Structures & Algorithms 
 - 🤖 Machine Learning  
 - 🧠 Deep Learning
