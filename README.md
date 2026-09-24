@@ -72,7 +72,7 @@ Passionate about building software, solving problems, and continuously learning 
 
 # 📌 Featured Projects
 
-- 📚 Library Management System
+- 📚 Library Management System  
 - 🐍 Python Practice Repository   
 - 💯 Python Coding Challenges
 - 🎓 Python for Everybody – Notes & Practice
