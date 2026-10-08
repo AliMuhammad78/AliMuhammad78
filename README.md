@@ -9,7 +9,7 @@ Passionate about building software, solving problems, and continuously learning 
 </p>                                         
                      
 <p>   
-  <a href="www.linkedin.com/in/muhammad-ali-saagar-91294a290">   
+  <a href="https://linkedin.com/in/muhammad-ali-saagar-91294a290">   
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>    
    
