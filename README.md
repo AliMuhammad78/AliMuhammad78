@@ -118,7 +118,7 @@ Passionate about building software, solving problems, and continuously learning 
 <p align="left">
    
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/muhammad-ali-91294a290/
+www.linkedin.com/in/muhammad-ali-saagar-91294a290
 
 📺 **YouTube:**  
 https://www.youtube.com/@TechyBits20121 
