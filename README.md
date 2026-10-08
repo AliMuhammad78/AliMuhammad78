@@ -77,7 +77,7 @@ Passionate about building software, solving problems, and continuously learning 
 - 💯 Python Coding Challenges
 - 🎓 Python for Everybody – Notes & Practice
 - 📖 ShelfShare (MERN Stack)
-- 💰 Personal Finance Manager  
+- 💰 Personal Finance Manager   
 
 ---     
 ---
