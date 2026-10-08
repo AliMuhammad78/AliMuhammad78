@@ -53,7 +53,7 @@ Passionate about building software, solving problems, and continuously learning 
 - 🧠 Deep Learning
 - 💬 Natural Language Processing (NLP)
 - ✨ Generative AI
-- 🌍 Language Technologies
+- 🌍 Language Technologies  
 - 🌐 Flask
 - 🐳 Docker
 - 🗄️ SQL & Databases
