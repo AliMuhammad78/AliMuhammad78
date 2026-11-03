@@ -60,7 +60,7 @@ Passionate about building software, solving problems, and continuously learning 
 - 🔗 REST APIs
 - 🔧 Git & GitHub
 
---- 
+---  
 
 # 🛠️ Languages & Tools
 
